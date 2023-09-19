@@ -2,7 +2,7 @@ Antonio Oré - Web Developer - Salesforce Admin & Developer
 
 ![Banner LinkedIn](https://github.com/SolidEiEn/aore/assets/10981114/8d21e6c0-4312-4129-ac50-e0a946b80691)
 
-Soy ingeniero informático de profesión, entusiasta en el aprendizaje de desarrollo de aplicación web con HTML, CSS, JS. 
+Soy ingeniero informático de profesión, entusiasta en el aprendizaje de desarrollo de aplicaciones web con HTML, CSS, JS. 
 Actualmente especializandome en Salesforce Admin & Developer, con tecnologías como LWC, Apex, Java, Administración desde el inicio de un proyecto en Salesforce.
 
 Con experiencia Freelance en los siguientes proyectos: 
